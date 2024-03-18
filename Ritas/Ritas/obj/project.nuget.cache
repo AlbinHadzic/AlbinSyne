@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4VW6pjWbCMFKDM5z0Par+DgIFNuhihSUSswZi0yZupZeLjg9tCYM2Ht8m2AB8PRCOrReiBjaHsdEsAdG2XTSdg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Albin\\Desktop\\C#\\Ritas\\Ritas\\Ritas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Albin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
